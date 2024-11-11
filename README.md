@@ -2,6 +2,21 @@
 
 A simple frontend-only chat application built with React, featuring a user-friendly interface with login/signup, messaging, and profile management. Backend integration is yet to be implemented.
 
+### Screenshots of the Pages
+
+Here are the screenshots for the different pages in the app:
+
+- **Sign Up Page** (`/`)  
+  <img src="./src/assets/page1signup.png" alt="Sign Up Page" width="45%" style="display:inline-block; margin-right: 10px;">
+  <img src="./src/assets/page1login.png" alt="Login Page" width="45%" style="display:inline-block;">
+
+- **Chat Page** (`/chat`)  
+  <img src="./src/assets/page2chat.png" alt="Chat Page" width="45%" style="display:inline-block; margin-right: 10px;">
+- **Profile Page** (`/profile`)  
+  <img src="./src/assets/page3profile.png" alt="Profile Update Page" width="45%" style="display:inline-block;">
+  
+
+
 ## Project Structure
 
 ```
